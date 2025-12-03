@@ -1,17 +1,17 @@
 # Sistema de Baralho
 
-Projeto desenvolvido para exame de Front-end usando Next.js.
+projeto desenvolvido para exame de Front-end usando Next.js.
 
 ## Tecnologias Usadas
 
 - Next.js 14
 - React
-- TypeScript
+- Typescript
 - CSS Modules
 
 ## Instruções
 
-1. Instalar dependências:
+1. Instalar dependencias:
 ```
 npm install
 ```
