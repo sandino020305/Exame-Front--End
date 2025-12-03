@@ -18,7 +18,7 @@ npm install
 
 2. Criar arquivo .env.local na raiz do projeto:
 ```
-AUTH_PASSWORD=sua_senha
+AUTH_PASSWORD=senha
 ```
 
 3. Executar o projeto:
