@@ -26,7 +26,7 @@ AUTH_PASSWORD=sua_senha
 npm run dev
 ```
 
-4. Acessar http://localhost:3000
+4. Acessar ( sem link )
 
 ## Deploy na Vercel
 
